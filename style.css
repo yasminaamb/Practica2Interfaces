@@ -39,7 +39,7 @@ nav {
 /*Body de la página*/
 body {
     height:20em;
-    background-image: url(imagenes/rosas.jpg);
+    background-image: url(rosas.jpg);
     background-size: 85rem;
     font-family: brainFlower, sans-serif;
     font-size: 1.875em;
